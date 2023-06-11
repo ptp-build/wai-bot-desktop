@@ -1,0 +1,28 @@
+{
+  "steps": [
+    {
+      "cmd": "moveTo",
+      "x": 100,
+      "y": 200
+    },
+    {
+      "cmd": "click"
+    },
+    {
+      "cmd": "typewrite",
+      "text": "Hello, World!"
+    },
+    {
+      "cmd": "hotkey",
+      "keys": ["ctrl", "shift", "n"]
+    },
+    {
+      "cmd": "press",
+      "key": "f1"
+    },
+    {
+      "cmd": "sleep",
+      "sec": 2
+    }
+  ]
+}
