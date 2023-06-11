@@ -1,6 +1,6 @@
 # UPDATE LOG
 
-## v0.0.1
+## v0.0.3
 
 Note: This version modifies some configuration files. 
 
