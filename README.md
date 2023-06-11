@@ -119,3 +119,10 @@ Now use curl to send this JSON payload to your server:
     curl -X POST -H "Content-Type: application/json" --data @py/demo/payload-demo.json http://localhost:8688
 
     
+# Thanks to
+
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT)
+
+# License
+
+- [GNU-v3.0 License](https://github.com/ptp-build/wai-bot-desktop/blob/main/LICENSE)
