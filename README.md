@@ -41,16 +41,20 @@ A Robot Automation Program Built with Rust
 
 ###  - 发布
 
+- Github `Settings` > `Actions` > `General` > `Workflow permissions` > `Workflows have read and write permissions in the repository for all scopes.`
 
 - change `package.json` > `version` to `0.0.1`
 - change `src-tauri/tauri.conf.json` > `package.version` to `0.0.1`
 
 
     export VERSION=0.0.1
-    node tools/wai-change-releaseversion.js
+    node tools/wai-change-release-version.js
 
 
 ###  - Updater
+
+- Github `Settings` > `Pages` > add `gh-pages` branch
+
 
     npm run tauri signer generate -- -w ~/.tauri/wai-bot-desktop.key
     #输入密码, 假设 为: TAURI_KEY_PASSWORD
@@ -119,3 +123,10 @@ Now use curl to send this JSON payload to your server:
     curl -X POST -H "Content-Type: application/json" --data @py/demo/payload-demo.json http://localhost:8688
 
     
+# Thanks to
+
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT)
+
+# License
+
+- [GNU-v3.0 License](https://github.com/ptp-build/wai-bot-desktop/blob/main/LICENSE)
