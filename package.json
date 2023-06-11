@@ -1,6 +1,7 @@
 {
-  "name": "chatgpt",
-  "version": "0.0.4",
+  "name": "wai-bot-desktop",
+  "description": "A Robot Automation Program Built with Rust",
+  "version": "0.0.5",
   "license": "GNU 3.0",
   "author": "Barry <barry.ptp.build@gmail.com>",
   "keywords": [
