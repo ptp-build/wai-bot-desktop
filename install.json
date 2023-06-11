@@ -1,0 +1,35 @@
+{
+  "version": "v0.0.5",
+  "notes": "Note: This version modifies some configuration files.\nFix:\n\n- Release error : matching bin/python/wai-bot-rpa-aarch64-apple-darwin not found.",
+  "pub_date": "2023-06-11T23:55:37.221Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV2R3WlNsdmF1Y1ZxTmNLbjJMbnhyTXBFT1h5RGJSN2h2U01KbGlkdGZOVTV6MGR5UlF6RVVSOFhPb0tnbmdiejZ1TGlYZlhod0duMlgyRzkvQ0xpbTNTRVBiQ1JlL1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg2NTI3MDkxCWZpbGU6V2FpQm90XzAuMC41X3g2NF9lbi1VUy5tc2kuemlwCnZ1TzQ3eTBiazI5N2lVVnNveHhQOUYxQUIvWHpTK3NwYUJRQURoTGd6SCswdWVaSmNtMkszOFBDYXVqY0F0TmVpQW0wVHZLY0s5aEN4MXR2ZEhNdEJ3PT0K",
+      "url": "https://github.com/ptp-build/wai-bot-desktop/releases/download/v0.0.5/WaiBot_0.0.5_windows_x86_64.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV2R3WlNsdmF1Y1lnUDA0SUdxc0dDKzdWeHQrSnNtSGl0TWdrQ0hmM2ZIR29IeTlxR0YzRFB6YnNKeXZZT3hYM2VPcFVpUjJkNmdlU1pUcU5zRUdEQjlxeC83MDUrNVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg2NTI2OTMxCWZpbGU6d2FpLWJvdF8wLjAuNV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKaVBQcnhtZjRWRWd1cytpK0l5emdLUWdacVV5SVNhZ2pWVlVkME9GS1g0emszL250UEFtb3pQMEZnMmRuQkV6d3VxaVJ2MnhqNHM2RU1KYTBVa1h6Q3c9PQo=",
+      "url": "https://github.com/ptp-build/wai-bot-desktop/releases/download/v0.0.5/WaiBot_0.0.5_linux_x86_64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV2R3WlNsdmF1Y1VIN2xOYytOR2duajArTmtxZFExd0h4aldIL2dvTnpBSFQwcHN6SVNuQ1ZvZU9vM3ZjL0VXelp3aUtSbjZ5aUN3V2FJUCtBZkZGSkNIVjlEYm02VWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg2NTI3MjkxCWZpbGU6V2FpQm90LmFwcC50YXIuZ3oKMGdVYVpkUVdzaExqZUUwa3dIdUR5MXBDREsvVXRmaklaS3ZHR0daREtwZHNJWi9HdVByNjdydURHSmQwN0dWeTdScXpvSE42QWpNRFphQTJVYmxvQlE9PQo=",
+      "url": "https://github.com/ptp-build/wai-bot-desktop/releases/download/v0.0.5/WaiBot_0.0.5_macos_x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV2R3WlNsdmF1Y1VIN2xOYytOR2duajArTmtxZFExd0h4aldIL2dvTnpBSFQwcHN6SVNuQ1ZvZU9vM3ZjL0VXelp3aUtSbjZ5aUN3V2FJUCtBZkZGSkNIVjlEYm02VWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg2NTI3MjkxCWZpbGU6V2FpQm90LmFwcC50YXIuZ3oKMGdVYVpkUVdzaExqZUUwa3dIdUR5MXBDREsvVXRmaklaS3ZHR0daREtwZHNJWi9HdVByNjdydURHSmQwN0dWeTdScXpvSE42QWpNRFphQTJVYmxvQlE9PQo=",
+      "url": "https://github.com/ptp-build/wai-bot-desktop/releases/download/v0.0.5/WaiBot_0.0.5_macos_x86_64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV2R3WlNsdmF1Y1VIN2xOYytOR2duajArTmtxZFExd0h4aldIL2dvTnpBSFQwcHN6SVNuQ1ZvZU9vM3ZjL0VXelp3aUtSbjZ5aUN3V2FJUCtBZkZGSkNIVjlEYm02VWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg2NTI3MjkxCWZpbGU6V2FpQm90LmFwcC50YXIuZ3oKMGdVYVpkUVdzaExqZUUwa3dIdUR5MXBDREsvVXRmaklaS3ZHR0daREtwZHNJWi9HdVByNjdydURHSmQwN0dWeTdScXpvSE42QWpNRFphQTJVYmxvQlE9PQo=",
+      "url": "https://github.com/ptp-build/wai-bot-desktop/releases/download/v0.0.5/WaiBot_0.0.5_macos_x86_64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV2R3WlNsdmF1Y1lnUDA0SUdxc0dDKzdWeHQrSnNtSGl0TWdrQ0hmM2ZIR29IeTlxR0YzRFB6YnNKeXZZT3hYM2VPcFVpUjJkNmdlU1pUcU5zRUdEQjlxeC83MDUrNVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg2NTI2OTMxCWZpbGU6d2FpLWJvdF8wLjAuNV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKaVBQcnhtZjRWRWd1cytpK0l5emdLUWdacVV5SVNhZ2pWVlVkME9GS1g0emszL250UEFtb3pQMEZnMmRuQkV6d3VxaVJ2MnhqNHM2RU1KYTBVa1h6Q3c9PQo=",
+      "url": "https://github.com/ptp-build/wai-bot-desktop/releases/download/v0.0.5/WaiBot_0.0.5_linux_x86_64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV2R3WlNsdmF1Y1ZxTmNLbjJMbnhyTXBFT1h5RGJSN2h2U01KbGlkdGZOVTV6MGR5UlF6RVVSOFhPb0tnbmdiejZ1TGlYZlhod0duMlgyRzkvQ0xpbTNTRVBiQ1JlL1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg2NTI3MDkxCWZpbGU6V2FpQm90XzAuMC41X3g2NF9lbi1VUy5tc2kuemlwCnZ1TzQ3eTBiazI5N2lVVnNveHhQOUYxQUIvWHpTK3NwYUJRQURoTGd6SCswdWVaSmNtMkszOFBDYXVqY0F0TmVpQW0wVHZLY0s5aEN4MXR2ZEhNdEJ3PT0K",
+      "url": "https://github.com/ptp-build/wai-bot-desktop/releases/download/v0.0.5/WaiBot_0.0.5_windows_x86_64.msi.zip"
+    }
+  }
+}
