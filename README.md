@@ -47,7 +47,7 @@ A Robot Automation Program Built with Rust
 
 
     export VERSION=0.0.1
-    node tools/wai-change-releaseversion.js
+    node tools/wai-change-release-version.js
 
 
 ###  - Updater
