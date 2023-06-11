@@ -1,6 +1,6 @@
 # UPDATE LOG
 
-## v0.0.3
+## v0.0.4
 
 Note: This version modifies some configuration files. 
 
@@ -10,4 +10,4 @@ Feat:
 
 Fix:
 
-- can not update install.json
+- fix run script throw error efore build fe,Add shelljs 
