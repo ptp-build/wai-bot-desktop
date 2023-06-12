@@ -3,8 +3,8 @@ const { promisify } = require('util');
 const exec = promisify(require('child_process').exec);
 /**
 
-export VERSION=1.0.25
-node scripts/wai-change-release-version.js
+export VERSION=0.0.0
+node tools/wai-change-release-version.js
 
  */
 

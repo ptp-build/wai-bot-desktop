@@ -4045,7 +4045,7 @@ dependencies = [
 
 [[package]]
 name = "wai_bot"
-version = "1.0.53"
+version = "0.0.5"
 dependencies = [
  "anyhow",
  "csv",

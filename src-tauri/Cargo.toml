@@ -1,6 +1,6 @@
 [package]
 name = "wai_bot"
-version = "1.0.53"
+version = "0.0.5"
 authors = ["Barry <barry.ptp.build@gmail.com>"]
 description = "Wai Bot Desktop Application"
 repository = "https://github.com/ptp-build/wai-bot-desktop"
